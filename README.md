@@ -1,8 +1,15 @@
-# <p align="center"> Hello  <img src="hi.gif" width="42px"> Everyone !! </p>
+<!-- # <p align="center"> Hello  <img src="hi.gif" width="42px"> Everyone !! </p> -->
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=23&color=FFB11E&lines=I'm+Yugal+Agarwal%2C+a+Programmer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yugal41735&label=Profile%20views&color=0e75b6&style=flat" alt="Yugal41735" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&color=FF4E11&lines=Hello+%F0%9F%91%8B+I'm+Yugal+!!;I+do+open+source+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<br/>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yugal41735&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Yugal41735" /> </p>
+
+<a href="https://github.com/Yugal41735/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugal41735&layout=compact&theme=gruvbox&hide_border=false" /></a>
 
 <p>
 <a align= "center" href="https://github.com/Yugal41735">
