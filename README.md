@@ -1,6 +1,8 @@
 ### Hi there 👋
 # Yugal
 
+>> # <p align="center"> I'm  <img
+
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Python Projects
