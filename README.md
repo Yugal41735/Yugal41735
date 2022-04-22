@@ -2,7 +2,7 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&color=FF4E11&lines=Hello+%F0%9F%91%8B+I'm+Yugal+!!;I+do+open+source+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FF4E11&lines=Hello+%F0%9F%91%8B+I'm+Yugal+!!;I+do+open+source+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
