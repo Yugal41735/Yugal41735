@@ -18,6 +18,8 @@
 
 [![Yugal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugal41735&count_private=true&theme=radical&show_icons=true)](https://github.com/Yugal41735/github-readme-stats)
 
+[![@yugal41735's Holopin board](https://holopin.io/api/user/board?user=yugal41735)](https://holopin.io/@yugal41735)
+
 
 
 📫 How to reach out to me: adonis8943@gmail.com
